@@ -1,0 +1,13 @@
+#fotoBatman{margin:auto}
+body{font-family: 'Times New Roman', Times, serif;}
+header {background-color: #e6e6e6;}
+h1, h2{
+    background-color: #c4c4c4;
+    color: #005677;
+    font-weight: bold;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+footer{background-color: #005677;
+        }
+        span{font-weight: bold;}
