@@ -1,6 +1,7 @@
 #fotoBatman{margin:auto}
 body{font-family: 'Times New Roman', Times, serif;}
-header {background-color: #e6e6e6;}
+header {background-color: #e6e6e6;
+        text-align: center;}
 h1, h2{
     background-color: #c4c4c4;
     color: #005677;
@@ -10,4 +11,4 @@ h1, h2{
 }
 footer{background-color: #005677;
         }
-        span{font-weight: bold;}
+
